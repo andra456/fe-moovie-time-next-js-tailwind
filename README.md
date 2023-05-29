@@ -1,9 +1,9 @@
 
 ## Moovie Time project
 
-> Create Next js using typescript implemented omdb API, manage store data use react-query & context
+Create Next js using typescript implemented omdb API, manage store data use react-query & context
 
----
+
 ## Documentation
 
 ## Install & Start
